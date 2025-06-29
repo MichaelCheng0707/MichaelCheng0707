@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Michael
 
+a Software Engineer with extensive hands-on experience and a strong foundation in cloud infrastructure. My background has taught me that automation eliminates redundant processes and cloud services reduce business storage costs, driving my vision to deliver scalable, efficient, and innovative solutions that address business challenges through my developer expertise.
+
 ### About Me
 - 🎓 MSCS @ Columbia University (2025/08 - 2026/12)
 - 😎 Cloud Engineer @ Trend Micro (2024/11 - 2025/06)
