@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Michael
+
+🎓 MSCS @ Columbia University (2025/08 - 2026/12)
+😎 Cloud Engineer @ Trend Micro (2024/11 - 2025/06)
+🌱 Data Analyst Intern @ PChome Online Inc. (Summer 2023)
+⚡ Specialize in full-stack software development and cloud infrastrucute
 
 <!--
 **MichaelCheng0707/MichaelCheng0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
